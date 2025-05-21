@@ -1,0 +1,2 @@
+# ScamSeeker
+Websites Scanner
